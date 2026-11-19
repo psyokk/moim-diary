@@ -1,0 +1,17 @@
+{
+  "name": "모임 다이어리",
+  "short_name": "모임다이어리",
+  "description": "모임 일정, 가계부, 맛집, 운동을 한곳에 기록해요.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f4f8",
+  "theme_color": "#6c5cff",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
